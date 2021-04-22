@@ -56,7 +56,8 @@
    <div class="footer-list">
    <ul>
     <li>Ms.Anjali Gupta: +91xxx-000-xxxx</li>
-    <li>E-mail:anjaligupta2810cd@gmail.com</li></ul>
+    <li>E-mail:anjaligupta2810cd@gmail.com</li>
+    <li>Linkedin URL:www.linkedin.com/in/anjali-g-3b6516210</li></ul>
    </div>
   </footer>
  </body>
