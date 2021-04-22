@@ -55,9 +55,8 @@
    <div class="footer-logo">Contact us</div>
    <div class="footer-list">
    <ul>
-    <li>Mr. Sanjay Gupta: +91xxx-000-xxxx</li>
-    <li>Mr.Sudhir Sharma: +91000-xxx-0000</li>
-    <li>E-mail:s.s.enterprises@gmail.com</li></ul>
+    <li>Ms.Anjali Gupta: +91xxx-000-xxxx</li>
+    <li>E-mail:anjaligupta2810cd@gmail.com</li></ul>
    </div>
   </footer>
  </body>
